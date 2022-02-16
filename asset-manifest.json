@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/airbnb-clone/static/js/main.c6982de1.js",
+    "static/media/logo.jpeg": "/airbnb-clone/static/media/logo.c97881f9413c37d097ff.jpeg",
+    "index.html": "/airbnb-clone/index.html",
+    "main.c6982de1.js.map": "/airbnb-clone/static/js/main.c6982de1.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c6982de1.js"
+  ]
+}
